@@ -66,14 +66,32 @@ The best result was achieved by the from-scratch LDA model with 99.62% accuracy.
 - Seaborn
 - Jupyter Notebook
 
+```markdown
+## Repository Structure
+
+wine-type-classification/
+│
+├── wine_classification.ipynb
+├── Wine_Quality_Project_Report.pdf
+├── wine_quality_merged.csv
+├── requirements.txt
+└── README.md
+
 ## How to Run
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/27nsg6x892-afk/wine-type-classification.git
+
+2. Install the required libraries:
+
 pip install -r requirements.txt
+
+3. Open the notebook:
+
 jupyter notebook wine_classification.ipynb
+
+4. Run the notebook cells in order.
 
 ## Project Status
 
@@ -82,14 +100,4 @@ Completed as an academic Pattern Recognition project.
 ## Author
 
 Mark Samy Sabry
-
-## Repository Structure
-```text
-wine-type-classification/
-│
-├── wine_classification.ipynb
-├── Wine_Quality_Project_Report.pdf
-├── wine_quality_merged.csv
-├── requirements.txt
-└── README.mdS
 
