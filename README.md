@@ -86,7 +86,7 @@ Mark Samy Sabry
 wine-type-classification/
 │
 ├── wine_type_classification.ipynb
-├── Wine_Quality_Project_Report_English.pdf
+├── Wine_Quality_Project_Report.pdf
 ├── requirements.txt
 ├── README.md
 
