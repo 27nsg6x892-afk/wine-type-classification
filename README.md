@@ -66,7 +66,7 @@ The best result was achieved by the from-scratch LDA model with 99.62% accuracy.
 - Seaborn
 - Jupyter Notebook
 
-```markdown
+
 ## Repository Structure
 
 wine-type-classification/
