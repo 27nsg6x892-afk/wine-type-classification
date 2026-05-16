@@ -67,15 +67,13 @@ The best result was achieved by the from-scratch LDA model with 99.62% accuracy.
 - Jupyter Notebook
 
 
-[## Repository Structure
+## Repository Structure
 
-wine-type-classification/
-│
-├── wine_classification.ipynb
-├── Wine_Quality_Project_Report.pdf
-├── wine_quality_merged.csv
-├── requirements.txt
-└── README.md](https://github.com/27nsg6x892-afk/wine-type-classification/tree/main)
+- wine_classification.ipynb
+- Wine_Quality_Project_Report.pdf
+- wine_quality_merged.csv
+- requirements.txt
+- README.md
 
 ## How to Run
 
