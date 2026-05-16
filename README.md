@@ -73,11 +73,11 @@ git clone https://github.com/27nsg6x892-afk/wine-type-classification.git
 pip install -r requirements.txt
 jupyter notebook wine_type_classification.ipynb
 
-##Project Status
+## Project Status
 
 Completed as an academic Pattern Recognition project.
 
-##Author
+## Author
 
 Mark Samy Sabry
 
